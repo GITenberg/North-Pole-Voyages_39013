@@ -1,0 +1,33 @@
+_repo: North-Pole-Voyages_39013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mudge, Zachariah Atwell
+    alias: Mudge, Z. A. (Zachariah Atwell)
+    birthdate: 1813
+    deathdate: 1888
+    gutenberg_agent_id: '39792'
+    url: http://www.gutenberg.org/2009/agents/39792
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39013'
+  lccn: 05039936
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+- !lcsh 'Arctic regions -- Discovery and exploration -- American'
+- !lcsh 'Discoveries in geography -- American'
+title: "North-Pole Voyages\r\nEmbracing Sketches of the Important Facts and Incidents\
+  \ in the Latest American Efforts to Reach the North Pole, from the Second Grinnell\
+  \ Expedition to That of the Polaris"
+url: http://www.gutenberg.org/ebooks/39013
